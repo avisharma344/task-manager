@@ -27,7 +27,7 @@ It uses an **H2 in-memory database**, making it easy to run locally without addi
 ---
 
 ## 📂 Folder Structure
-
+```
 task-manager/
 │
 ├─ src/main/java/com/example/taskmanager/
@@ -43,7 +43,7 @@ task-manager/
 │
 ├─ pom.xml
 └─ README.md
-
+```
 ## ⚡ Getting Started (Run Locally)
 
 1. **Clone the repository:**
